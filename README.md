@@ -1,6 +1,6 @@
 # Windows US Layout Türkçe Klavye Düzeni
 
-Windows sistemlere OS X'teki `ALT + harf` desteği sağlar.
+İngilizce klavye düzenlerinde Türkçe karakterleri rahatça kullanabilmek için Windows sistemlere OS X'teki `ALT + harf` desteğini sağlar.
 
 ## Gereksinimler ve Kurulum
 
