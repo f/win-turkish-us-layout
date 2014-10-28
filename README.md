@@ -12,3 +12,7 @@
 - Windows 7 @ DELL Latitude: E5530
 
 Eğer başka bir bilgisayarda test ettiyseniz ve çalıştıysa lütfen listeye ekleyin.
+
+## Lisans
+
+WTFPL.
